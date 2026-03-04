@@ -1,0 +1,12 @@
+aaron-bond.better-comments
+adpyke.codesnap
+bradlc.vscode-tailwindcss
+donjayamanne.githistory
+dsznajder.es7-react-js-snippets
+eamodio.gitlens
+github.copilot-chat
+ms-vscode-remote.remote-wsl
+naumovs.color-highlight
+pkief.material-icon-theme
+ritwickdey.liveserver
+usernamehw.errorlens
